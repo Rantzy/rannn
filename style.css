@@ -1,0 +1,253 @@
+body{
+    background-image: url("mbg.jpg");
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+   margin: 0px;
+}
+h1{
+text-shadow: 20px 20px 20px grey;
+    text-align: center;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border: left width 10px;;
+   background: linear-gradient(lightblue,white);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+
+}
+
+
+#box1{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: auto;
+    position: relative;
+   border-right: 500px;
+   animation: mySlide;
+   animation-duration: 5s
+
+}
+@keyframes mySlide{
+    from{margin-left: 5%;}
+    to{margin-left: 0%;}
+}
+#box2{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+  border-right: 500px;
+  top: 100px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box3{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+left: 300px;
+bottom: 404px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}#box4{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 300px;
+bottom: 304px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+
+
+#box5{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 600px;
+bottom: 807px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box6{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 600px;
+bottom: 707px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box7{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 900px;
+bottom: 1210px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box8{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 900px;
+bottom: 1110px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box9{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 1200px;
+bottom: 1615px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+#box10{
+    color: aliceblue;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 1200px;
+bottom: 1515px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+
+#box11{
+    font-size: 30px;
+    color: aliceblue;
+    border: 1px solid;
+    width: 800px;
+    height: 500px;
+    font-size: 30;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-right: center;
+    position: relative;
+    border-right: 300px;
+left: 350px;
+top: 50px;
+
+   animation: mySlide;
+   animation-duration: 5s
+}
+
+
+
+@keyframes mySlide{
+    from{margin-left: 5%;}
+    to{margin-left: 0%;}
+}
+.fa-solid{
+position: relative;
+left: 750px;
+top: 200;
+}
+.fa-brands{
+    
+    color: blue;
+   
+position: relative;
+    top: 100px;
+    left: 95px;
+}
+.fa-brands{
+    color: coral;
+}
+
+
+
+
+
+
+
+
+a:link{
+    text-align: center;
+    color: yellow;
+}
+a:visited{
+    color: aliceblue;
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
